@@ -7,10 +7,10 @@ const moviesData = {
     { id: 2, title: "Insidious", image: "/image3.png", description: "A family is haunted by a dark supernatural presence." },
     { id: 3, title: "It", image: "/image4.png", description: "A terrifying story of a demonic clown preying on children." },
     { id: 4, title: "A Quiet Place", image: "/image5.png", description: "A family must live in silence to avoid blind monsters." },
-    { id: 5, title: "The Nun", image: "/image6.png", description: "A dark entity terrorizes a convent in Romania." },
+    { id: 5, title: "The Nun", image: "/image7.png", description: "A dark entity terrorizes a convent in Romania." },
   ],
   action: [
-    { id: 6, title: "Mad Max: Fury Road", image: "/image7.png", description: "In a post-apocalyptic world, Max teams up with a rebel warrior." },
+    { id: 6, title: "Mad Max: Fury Road", image: "/image.png", description: "In a post-apocalyptic world, Max teams up with a rebel warrior." },
     { id: 7, title: "John Wick", image: "/image8.png", description: "A retired hitman seeks vengeance against the men who wronged him." },
     { id: 8, title: "Gladiator", image: "/image9.png", description: "A betrayed Roman general seeks revenge against the emperor." },
     { id: 9, title: "Die Hard", image: "/image2.png", description: "A New York cop battles terrorists inside a skyscraper." },
@@ -21,7 +21,7 @@ const moviesData = {
     { id: 12, title: "Inception", image: "/image12.png", description: "A thief who enters the dreams of others is given a chance to redeem himself." },
     { id: 13, title: "The Matrix", image: "/image13.png", description: "A hacker discovers that the world around him is a simulated reality." },
     { id: 14, title: "Blade Runner 2049", image: "/image14.png", description: "A new blade runner uncovers a long-buried secret that could reshape society." },
-    { id: 15, title: "Dune", image: "/image.png", description: "A young nobleman must embrace his destiny on the desert planet Arrakis." },
+    { id: 15, title: "Dune", image: "/image16.png", description: "A young nobleman must embrace his destiny on the desert planet Arrakis." },
   ],
 };
 
